@@ -4,6 +4,7 @@
 
 import SwiftUI
 import Charts
+import DataFactory
 
 struct SingleBarDetailView: View {
     @State private var barWidth = 7.0
